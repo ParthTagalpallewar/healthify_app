@@ -1,16 +1,35 @@
-# healthify_app
+Healthify is a smart food assistant app designed to make your kitchen life easier and healthier.
+It uses AI to analyze food packaging and provides insightful summaries, and offers personalized recipe recommendations based on the ingredients you already have!
 
-A new Flutter project.
+✨ Features
+📸 Ingredient Summarizer
+Take a photo of the ingredients list from packaged food.
 
-## Getting Started
+The app scans and identifies the ingredients.
 
-This project is a starting point for a Flutter application.
+Get a clean, easy-to-understand summary about the contents, including:
 
-A few resources to get you started if this is your first Flutter project:
+Ingredient descriptions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Potential allergens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Health-related insights
+
+🤖 Smart Recipe Chatbot
+Chat with an intelligent bot about what ingredients you have at home.
+
+The chatbot suggests recipes based on your available items.
+
+Personalized, easy-to-cook meal ideas.
+
+Helps minimize food waste and maximize your pantry use.
+
+🛠️ Technologies Used
+Flutter (Mobile App Development)
+
+Machine Learning (OCR and Ingredient Analysis)
+
+Natural Language Processing (Chatbot Recommendation Engine)
+
+Firebase / Cloud Storage (for data handling)
+
